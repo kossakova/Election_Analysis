@@ -12,8 +12,8 @@ The Colorado Board of Elections gave me the following tasks for the election aud
 6.	Determine the county that cast the most votes.
 
 ### Resources
-Data Source: Election Data (csv)
-Software: Python 3.7.6, Visual Studio Code 1.60.0
+- Data Source: Election Data (csv)
+- Software: Python 3.7.6, Visual Studio Code 1.60.0
 
 ## Project Summary
 ## Results of Election Audit
