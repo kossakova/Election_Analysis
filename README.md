@@ -1,4 +1,5 @@
 # Election_Analysis
+---
 
 ## Project Overview
 ## Overview of Election Audit
@@ -15,6 +16,8 @@ The Colorado Board of Elections gave me the following tasks for the election aud
 - Data Source: Election Data (csv)
 - Software: Python 3.7.6, Visual Studio Code 1.60.0
 
+---
+
 ## Project Summary
 ## Results of Election Audit
 
@@ -29,7 +32,9 @@ The analysis of the election shows that:
 - Diana DeGette won the election with significant difference of 73.8% (272,892) votes.
 - Next candidate was Charles Casper Stockham with 23.0% (85,213) of votes.
 - Raymon Anthony Doane had least vote count of 3.1% (11,606)
-- 
+
+---
+
 ## Election-Audit Summary
 Using this script, vote counts can be easily done on many other elections.
 It can be used by adding a few modifications and inputting new data to a sheet. 
